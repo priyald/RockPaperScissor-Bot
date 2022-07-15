@@ -71,4 +71,6 @@ async def on_message(msg):
   await msg.channel.send(l)
 
 keepAlive()
+
+#token must be the one assigned to you by the discord bot you're coding into
 cli.run(token)
