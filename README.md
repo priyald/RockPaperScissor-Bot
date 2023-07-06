@@ -1,5 +1,5 @@
 <h1>RockPaperScissor-Bot</h1>
-Playing rock, paper, scissor with a discord bot? The boomers are shaking
+Playing rock, paper, scissor with a discord bot
 <hr>
 
 <h3>Add the Bot</h3>
